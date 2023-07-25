@@ -5,7 +5,7 @@ const app = express();
 const port = 7000;
 
 
-const mongoURI = 'mongodb+srv://testuser:12345testuser@nodeexpress-jwt-test.8pysrbz.mongodb.net/?retryWrites=true&w=majority';
+const mongoURI = 'mongodb+srv:// tempuser:123@cluster0.f9d6o.gcp.mongodb.net/Exam';
 
 
 mongoose
